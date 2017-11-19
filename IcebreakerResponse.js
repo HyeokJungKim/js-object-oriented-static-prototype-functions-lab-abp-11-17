@@ -3,4 +3,4 @@ function IcebreakerResponse(email){
 }
 IcebreakerResponse.prototype.batchcreate{
 return emails.map(function(email)
-{ return new IcebreakerResponse(email) 
+{ return new IcebreakerResponse(email) }}
